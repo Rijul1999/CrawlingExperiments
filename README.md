@@ -1,3 +1,3 @@
 # CrawlingExperiments
 
-THis repository is for experimenting with various web crawlers.
+This repository is for experimenting with various web crawlers.
